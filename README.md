@@ -1,1 +1,2 @@
-# neural-network
+# Project Overview
+This repository contains all documents and code related to the project on Neural Networks. The focus for this project was to work with neural networks for classification. To begin, a CSV file consisting of various values and features was used. More specifically, the data contained 768 samples of people and their features such as their age, bmi, pregnancies, glucose, blood pressure, skin thickness, insulin, diabetes pedigree function, whether they smoke and the region. The target here is the outcome, which classifies if the person has diabetes or not using the values 0 and 1, respectively. 
